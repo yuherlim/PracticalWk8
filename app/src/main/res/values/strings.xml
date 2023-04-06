@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AboutMePracticalG356</string>
+    <string name="name">Jia Hui</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet
+        \n\nconsectetur adipiscing elit. Nulla et felis ornare odio faucibus interdum ac
+        \n\nut sapien. Pellentesque tristique, lectus non auctor venenatis,
+        \n\nsapien est rutrum ex, ac viverra augue urna vel nisi.
+        \n\nDuis volutpat vitae urna ac vehicula. Maecenas vel tristique lacus,
+        \n\nid imperdiet felis. Suspendisse purus augue, viverra sed diam eget,
+        \n\ndictum egestas libero. Donec accumsan orci nec lorem congue sollicitudin.
+        \n\nDonec scelerisque mauris enim, quis dignissim metus pulvinar at.
+        \n\nInteger ipsum tellus, vehicula et porttitor vel, sollicitudin vel tortor.
+        \n\nPhasellus venenatis efficitur velit a facilisis. Pellentesque nunc tortor,
+        \n\npharetra nec lectus ac, dignissim hendrerit enim. Quisque cursus facilisis lacus.
+        \n\nAliquam suscipit tincidunt nisi, ac aliquam purus placerat eu.
+        \n\nPraesent condimentum ultricies nibh, id porttitor mi vestibulum et.
+        \n\nSed sed auctor nulla, non tristique massa. Sed sed ante tortor.
+        \n\nIn vehicula, massa vel dapibus ultricies, enim velit eleifend diam,
+        \n\nat convallis nunc nunc vulputate leo. Curabitur tortor lacus,
+        \n\nvolutpat ut mattis at, tincidunt vel urna. Aenean ullamcorper bibendum porttitor.
+        \n\nPraesent bibendum ante quam, non tincidunt enim dictum eu.
+        \n\nAenean eleifend faucibus lorem eget hendrerit. Nulla rhoncus dui est,
+        \n\nsed malesuada risus bibendum at. Duis ut augue laoreet, vulputate massa quis,
+        \n\npretium elit. Suspendisse faucibus mauris nunc,</string>
+    <string name="what_is_your_nickname">"What is your nickname? "</string>
+    <string name="done">Done</string>
+</resources>
